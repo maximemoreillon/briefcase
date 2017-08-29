@@ -8,7 +8,8 @@ Briefcase equipped with a electronic lock, a fingerprint reader and a bluetooth 
 ## Parts list
 * Arduino pro mini 5V
 * Lock-style solenoid
-* ZFM-20 Fingerprint reader
+* ZFM-20 fingerprint reader
+* HC-05 bluetooth module
 * DC-DC Buck converter
 * 3x 18650 battery
 * 2x LED + resistor
