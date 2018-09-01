@@ -18,4 +18,4 @@ The briefcase is powered by three 18650 Lithium Ion batteries whose lifespan I h
 * Power switch
 
 ## Schematic:
-![alt text](https://moreillon.duckdns.org/projects/images/fingerprint_briefcase_schem.png)
+![alt text](http://maximemoreillon.com/images/projects/briefcase/fingerprint_briefcase_schem.png)
